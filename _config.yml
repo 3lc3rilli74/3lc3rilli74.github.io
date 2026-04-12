@@ -20,9 +20,9 @@ title                    : "Pablo"
 title_separator          : "-"
 name                     : "Pablo"
 description              : "Posts about security and networking"
-url                      : "https://elcerillita.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://3lc3rilli74.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "elCerillita/elcerillita.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "3lc3rilli74/3lc3rilli74.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "elCerillita"
+  github           : "3lc3rilli74"
   gitlab           :
   google_plus      :
   keybase          : #"name"
