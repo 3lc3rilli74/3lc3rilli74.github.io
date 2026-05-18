@@ -114,6 +114,34 @@ const pageContents = {
         </section>
     `,
 
+    "1.0_Security_Operations": `
+        <section>
+            <h1 class="ArticleTitle">1.0 Security Operations</h1>
+
+        </section>
+    `,
+
+    "2.0_Vulnerability_Management": `
+        <section>
+            <h1 class="ArticleTitle">2.0 Vulnerability Management</h1>
+
+        </section>
+    `,
+
+    "3.0_Incident_Response_Management": `
+        <section>
+            <h1 class="ArticleTitle">3.0 Incident Response Management</h1>
+
+        </section>
+    `,
+
+    "4.0_Reporting_and_Communication": `
+        <section>
+            <h1 class="ArticleTitle">4.0 Reporting and Communication</h1>
+
+        </section>
+    `,
+
 
 
 };
