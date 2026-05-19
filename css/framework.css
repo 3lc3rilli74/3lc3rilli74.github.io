@@ -37,6 +37,7 @@ html {
   color: #111;
   font-family: 'Inter2';
   margin: 0px;
+  background-color: red;
 }
 
 ::selection {
