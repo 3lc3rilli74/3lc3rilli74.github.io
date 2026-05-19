@@ -11,7 +11,8 @@
 * {
   margin: 0;
   text-decoration: none;
-
+  background-color: #121212;
+  color: #B0B0B0!important;
 }
 
 html {
@@ -68,7 +69,7 @@ html {
 
 
 .selected {
-    color: hsla(0,0%,7%,.8)!important;
+    color: hsla(0,0%,100%,.8)!important;
 }
 
 .row {
